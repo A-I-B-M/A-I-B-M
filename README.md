@@ -25,8 +25,8 @@ I actively participate in coding contests and tech events, and I serve as the **
   PHP, MySQL, HTML, CSS, JavaScript — Developed a hospital management system integrating multiple hospitals under one platform. Features include appointment booking, patient record management, and admin controls using relational database design.  
   🏆 *3rd Runner-Up in UIU CSE Project Show (DBMS Lab)*
 
-- **Tic Tac Toe**
-  A Tic Tac Toe game where two person can play with each other
+- **Tic Tac Toe**  
+  A Tic Tac Toe game where two person can play with each other.
 
 - **QuizCraft**  
   JavaScript — A simple interactive quiz platform with score tracking and multiple-choice questions.
